@@ -1,0 +1,33 @@
+
+
+- Química é mais que decorar
+- Substituição do lab pelo app (válido para a função do app dentro da química).
+    Substituto para aulas de química em laboratório
+
+- Nao falaram na apresentação do artigo do Conputer on the Beach
+
+- Colocar no texto o link para baixar o APP e o QRCode
+
+- Colocar imagens da interface de nosso app
+
+- Fazer um vídeo tutorial sobre o uso do APP
+
+- Referências fora de ordem alfabética e algumas erradas (Corrigir e marcar um horário com a Cláudia)
+
+- Não colocaram os apêndices A e B
+
+- usar "Responder ao questionário" e não "fazer o questionário"
+
+- Criar um item "Perspectivas" com:
+   - add novas vidrarias
+   - Armazenar acertos e erros dos alunos
+   - Fazer reações químicas com o app
+   - 
+- Comparar seu app com os trabalhos correlatos
+
+- Para o COTB, add mais vidrarias e implementar o modo de banco de dados de notas
+
+- Deixar claro qual questionário é qual (colocar todos como Apêndice)
+
+
+
